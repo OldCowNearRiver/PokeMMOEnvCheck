@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PokemmoEnvCheck</string>
+
+    <string name="build_product">Build.PRODUCT</string>
+    <string name="build_product_is_contains_sdk">Build.Product字段是否包含“sdk”</string>
+    <string name="build_hardware">Build.HARDWARE</string>
+    <string name="build_hardware_is_contains_goldfish">Build.HARDWARE字段是否包含“goldfish”</string>
+    <string name="build_hardware_is_contains_ranchu">Build.HARDWARE字段是否包含“ranchu”</string>
+    <string name="build_tags">Build.TAGS</string>
+    <string name="build_tags_is_contains_test_keys">Build.TAGS字段是否包含“test-keys”</string>
+
+    <string name="system_app_superuser_apk_is_exists">文件“Superuser.apk”是否存在</string>
+    <string name="system_xbin_su_is_exists">路径“/system/xbin/su”是否存在</string>
+
+    <string name="is_debugger_connected">是否有调试器已经连接到应用进程</string>
+    <string name="waiting_for_debugger">应用是否在启动时就处于“等待调试器连接”的状态</string>
+
+    <string name="yes">是</string>
+    <string name="no">否</string>
+
+    <string name="refresh">刷新</string>
+
+    <string name="colon">：</string>
+</resources>
